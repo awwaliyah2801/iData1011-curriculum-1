@@ -58,6 +58,17 @@ Adaptasi dari:
 #### 10. Summary of Data Formats
 
 ### Jalur 9: Data Munging
-#### 1. Dimensionality & Numeriosity Reduction
+#### 1. Principal Component Analysis
+#### 2. Stratified Sampling
+#### 3. Sampling
+#### 4. Denoising
+#### 5. Feature Extraction
+#### 6. Binning Sparse values
+#### 7. Unbiased Estimators
+#### 8. Handling Missing Values
+#### 9. Data Scrubbing
+#### 10. Normalization
+#### 11. Dimensionality & Numeriosity Reduction
+
 ### Jalur 10: Toolbox
 #### 2. Java, Python
